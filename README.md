@@ -1,7 +1,19 @@
 
-# One-Time Secret
+# One-Time Secret Power Automate Custom Connector
 
 When you send people passwords and private links via email or chat, there are copies of that information stored in many places. If you use a one-time link instead, the information persists for a single viewing which means it can't be read by someone else later. This allows you to send sensitive information in a safe way knowing it's seen by one person only. Think of it like a self-destructing message.
+
+**Create a new Secret**
+
+![Create a new Secret](https://github.com/alduzzen1985/One-Time-Secet-Connector/blob/main/Screenshots/1-CreateScreenshot.png?raw=true "Employee Data title")
+
+**Retrieve a new Secret**
+
+![Create a new Secret](https://github.com/alduzzen1985/One-Time-Secet-Connector/blob/main/Screenshots/2-RetrieveSecret.png?raw=true "Employee Data title")
+
+**Retrieve your metadata and burn secrets**
+
+![Create a new Secret](https://github.com/alduzzen1985/One-Time-Secet-Connector/blob/main/Screenshots/3-RetrieveAndBurn.png?raw=true "Employee Data title")
 
 ## PreRequisites
 
