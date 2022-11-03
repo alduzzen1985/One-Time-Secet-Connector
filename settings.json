@@ -1,0 +1,9 @@
+{
+  "connectorId": "shared_ag-5fonetime-20secret-5fb0db31b017401b31",
+  "environment": "0f4ead72-a958-efb0-892f-e39ddfb87657",
+  "apiProperties": "apiProperties.json",
+  "apiDefinition": "apiDefinition.swagger.json",
+  "icon": "icon.png",
+  "powerAppsUrl": "https://api.powerapps.com",
+  "powerAppsApiVersion": "2016-11-01"
+}
