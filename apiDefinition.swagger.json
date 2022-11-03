@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Default title",
+    "title": "One-Time Secret",
     "description": "One-Time Secret is a way to share sensitive information without storing them. If you use a one-time link instead, the information persists for a single viewing which means it can't be read by someone else later. This allows you to send sensitive information in a safe way knowing it's seen by one person only. Think of it like a self-destructing message.",
     "version": "1.0",
     "contact" : {
